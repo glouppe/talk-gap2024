@@ -153,6 +153,7 @@ Examples of inference problems across the physical sciences
 - Discovering new particles in high-energy physics
 - Data assimilation in weather forecasting
 - Estimating gravitational wave parameters
+- Retrieving atmospheric properties of exoplanets
 - Constraining cosmological models from galaxy surveys
 
 ---
@@ -273,7 +274,7 @@ class: black-slide
 <br><br><br><br><br><br>
 .pull-right[
   
-<iframe width="400" height="300" src="https://www.youtube.com/embed/uQVv_Sfxx5E?&loop=1&start=0" frameborder="0" volume="0" allowfullscreen></iframe>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/uQVv_Sfxx5E?&loop=1&start=1&autoplay=1" frameborder="0" volume="0" allowfullscreen></iframe>
 
 ]
 
