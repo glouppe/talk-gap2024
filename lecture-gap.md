@@ -178,6 +178,13 @@ In this case, evaluating the likelihood becomes intractable.
 
 ---
 
+class: middle, black-slide
+background-image: url(./figures/sbi/lhc.gif)
+
+
+
+---
+
 class: middle
 
 $$p(\mathbf{z}\_p|\theta)$$
